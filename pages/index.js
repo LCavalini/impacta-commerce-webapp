@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem-vindo ao Impacta Commerce!
+          Bem-vindo!
         </h1>
 
         <p className={styles.description}>
